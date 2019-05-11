@@ -1,7 +1,5 @@
 # learning-git
 # learn
 
-t
-t
-t
-i learn git
+learn git
+ new branch changes
